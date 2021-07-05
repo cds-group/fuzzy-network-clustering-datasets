@@ -18,7 +18,7 @@ The [MREG](GraphData/Synthetic/MREG/graphs) was generated using the Multiple Ran
 #### Real-world datasets
 1. European Air Transportation Network:<br /> Original multiplex network with 37 layers from http://complex.unizar.es/~atnmultiplex/ and converted to individual graphml files in [EATN](GraphData/Synthetic/MREG/graphs) [5].
 
-2. FAO Trade Network :<br /> The original dataset of FAO multiplex network with 364 layers from https://manliodedomenico.com/data.php and also converted to graphml in [EATN](GraphData/Synthetic/MREG/graphs) [6].
+2. FAO Trade Network :<br /> The original dataset of FAO multiplex network with 364 layers from https://manliodedomenico.com/data.php and also converted to graphml in [FAO](GraphData/Synthetic/MREG/graphs) [6].
 
 
 ### Links to software
