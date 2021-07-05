@@ -8,7 +8,7 @@ Network datasets and software links used in [1], for the evaluation of fuzzy clu
 ### Data description
 
 #### Synthetic datasets
-1. LFR networks: <br /> The [LFR](GraphData/Synthetic/LFR/graphs) dataset was generated using the Lancichinetti–Fortunato–Radicchi (LFR) benchmark method with mixing parameters (μ) 0.1, 0.5 and 0.8. O.<br />
+1. LFR networks: <br /> The [LFR](/LFR/graphs) dataset was generated using the Lancichinetti–Fortunato–Radicchi (LFR) benchmark method with mixing parameters (μ) 0.1, 0.5 and 0.8. O.<br />
 #classes = 3,  #graphs = 300 (100 with 0.1μ - class1, 100 with 0.5μ - class2 and 100 with 0.8μ),  #nodes = 100.
 	
 2. MREG networks: <br />
