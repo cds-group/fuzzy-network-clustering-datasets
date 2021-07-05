@@ -8,17 +8,17 @@ Network datasets and software links used in [1], for the evaluation of fuzzy clu
 ### Data description
 
 #### Synthetic datasets
-1. LFR networks: <br /> The [LFR](/LFR/graphs) dataset was generated using the Lancichinetti–Fortunato–Radicchi (LFR) benchmark method with mixing parameters (μ) 0.1, 0.5 and 0.8. O.<br />
+1. LFR networks: <br /> The [LFR](/LFR/) dataset was generated using the Lancichinetti–Fortunato–Radicchi (LFR) benchmark method with mixing parameters (μ) 0.1, 0.5 and 0.8. O.<br />
 #classes = 3,  #graphs = 300 (100 with 0.1μ - class1, 100 with 0.5μ - class2 and 100 with 0.8μ),  #nodes = 100.
 	
 2. MREG networks: <br />
-The [MREG](GraphData/Synthetic/MREG/graphs) was generated using the Multiple Random Eigen Graphs (MREG) model defined in [4].<br />
+The [MREG](/MREG/) was generated using the Multiple Random Eigen Graphs (MREG) model defined in [4].<br />
 #classes = 2,  #graphs = 200 (100 in each class, graphJE_1 to 100 - class1, graph_JE101 to 200 - class2),  #nodes = 100
    
 #### Real-world datasets
-1. European Air Transportation Network:<br /> Original multiplex network with 37 layers from http://complex.unizar.es/~atnmultiplex/ and converted to individual graphml files in [EATN](GraphData/Synthetic/MREG/graphs) [5].
+1. European Air Transportation Network:<br /> Original multiplex network with 37 layers from http://complex.unizar.es/~atnmultiplex/ and converted to individual graphml files in [EATN](/EUAir_Multiplex_Transport) [5].
 
-2. FAO Trade Network :<br /> The original dataset of FAO multiplex network with 364 layers from https://manliodedomenico.com/data.php and also converted to graphml in [FAO](GraphData/Synthetic/MREG/graphs) [6].
+2. FAO Trade Network :<br /> The original dataset of FAO multiplex network with 364 layers from https://manliodedomenico.com/data.php and also converted to graphml in [FAO](/FAO_Multiplex_Trade) [6].
 
 
 ### Links to software
