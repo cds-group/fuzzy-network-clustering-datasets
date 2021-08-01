@@ -26,7 +26,7 @@ The [MREG](/MREG/) was generated using the Multiple Random Eigen Graphs (MREG) m
 3. JointEmbedding (Matrix factorization): https://github.com/jesusdaniel/JEG [4]
 
 ### References
-[1] Bombelli, I., Manipur, I., Ferraro, M.B. and Guarracino, M.R., Fuzzy clustering of networks, Submitted Manuscript
+[1] Bombelli, I., Manipur, I., Ferraro, M.B. and Guarracino, M.R., Networks Fuzzy Clustering, Submitted Manuscript
 
 [2] Granata, I., Guarracino, M.R., Kalyagin, V.A., Maddalena, L., Manipur, I. and Pardalos, P.M., 2020. Model simplification for supervised classification of metabolic networks. Annals of Mathematics and Artificial Intelligence, 88(1), pp.91-104.
 https://link.springer.com/article/10.1007/s10472-019-09640-y
