@@ -14,9 +14,8 @@ The [MREG](/MREG/) was generated using the Multiple Random Eigen Graphs (MREG) m
 #classes = 2,  #graphs = 200 (100 in each class, graphJE_1 to 100 - class1, graph_JE101 to 200 - class2),  #nodes = 100
    
 #### Real-world datasets
-1. European Air Transportation Network:<br /> Original multiplex network with 37 layers from http://complex.unizar.es/~atnmultiplex/ and converted to individual graphml files in [EATN](/EUAir_Multiplex_Transport) [5].
 
-2. FAO Trade Network :<br /> The original dataset of FAO multiplex network with 364 layers from https://manliodedomenico.com/data.php and also converted to graphml in [FAO](/FAO_Multiplex_Trade) [6].
+1. FAO Climate Correlation networks  :<br />The  dataset  contains  140  networks  where each  network  represents  a  country.  Each graph is made up of 21 nodes which represent  variables  related  to  sustainability,  climate  change,  economic and production indicators (downloaded from the FAOSTAT database: https://www.fao.org/faostat/en/#data).[FAO_Climate_Corr_Indicators](/FAO_Climate_Corr_Indicators). See [README.txt](/FAO_Climate_Corr_Indicators/README.txt).
 
 
 ### Links to software
@@ -26,7 +25,7 @@ The [MREG](/MREG/) was generated using the Multiple Random Eigen Graphs (MREG) m
 3. JointEmbedding (Matrix factorization): https://github.com/jesusdaniel/JEG [4]
 
 ### References
-[1] Bombelli, I., Manipur, I., Ferraro, M.B. and Guarracino, M.R., Networks Fuzzy Clustering, Submitted Manuscript
+[1] Bombelli, I., Manipur, I., Ferraro, M.B. and Guarracino, M.R., On clustering ensembles of networks using a fuzzy approach]{On clustering ensembles of networks using a fuzzy approach, Submitted Manuscript
 
 [2] Granata, I., Guarracino, M.R., Kalyagin, V.A., Maddalena, L., Manipur, I. and Pardalos, P.M., 2020. Model simplification for supervised classification of metabolic networks. Annals of Mathematics and Artificial Intelligence, 88(1), pp.91-104.
 https://link.springer.com/article/10.1007/s10472-019-09640-y
@@ -34,9 +33,5 @@ https://link.springer.com/article/10.1007/s10472-019-09640-y
 [3] Gutiérrez-Gómez, L. and Delvenne, J.C., 2019. Unsupervised network embeddings with node identity awareness. Applied Network Science, 4(1), p.82. https://link.springer.com/article/10.1007/s41109-019-0197-1
 
 [4] Wang, S., Arroyo, J., Vogelstein, J.T. and Priebe, C.E., 2019. Joint embedding of graphs. IEEE Transactions on Pattern Analysis and Machine Intelligence. https://ieeexplore.ieee.org/abstract/document/8889404
-
-[5] Cardillo, A., Gómez-Gardenes, J., Zanin, M., Romance, M., Papo, D., Del Pozo, F. and Boccaletti, S., 2013. Emergence of network features from multiplexity. Scientific reports, 3(1), pp.1-6.
-
-[6] De Domenico, M., Nicosia, V., Arenas, A. and Latora, V., 2015. Structural reducibility of multilayer networks. Nature communications, 6(1), pp.1-9.
 
 #### <sup>**</sup>For more graph related work visit our github page at [cds-group](https://github.com/cds-group/)
