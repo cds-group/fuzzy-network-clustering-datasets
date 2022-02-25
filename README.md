@@ -1,5 +1,5 @@
 
-## Fuzzy clustering of networks
+## On clustering ensembles of networks using a fuzzy approach
 
 Network datasets and software links used in [1], for the evaluation of fuzzy clustering methods for graph clustering.
 
