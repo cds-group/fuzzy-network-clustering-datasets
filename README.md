@@ -1,7 +1,8 @@
 
 ## On clustering ensembles of networks using a fuzzy approach
 
-Network datasets and software links used in [1], for the evaluation of fuzzy clustering methods for graph clustering.
+Network datasets and software links used in _Representing ensembles of networks for fuzzy cluster analysis: a case study_
+ [1], for the evaluation of fuzzy clustering methods for clustering of network ensembles.
 
 ### Data description
 
@@ -25,7 +26,8 @@ The [MREG](/MREG/) was generated using the Multiple Random Eigen Graphs (MREG) m
 3. JointEmbedding (Matrix factorization): https://github.com/jesusdaniel/JEG [4]
 
 ### References
-[1] Bombelli, I., Manipur, I., Ferraro, M.B. and Guarracino, M.R., On clustering ensembles of networks using a fuzzy approach, Submitted Manuscript
+[1] Bombelli, I., Manipur, I., Ferraro, M.B. and Guarracino, M.R., 2023. Representing ensembles of networks for fuzzy cluster analysis: a case study, Data Mining and Knowledge Discovery.
+https://doi.org/10.1007/s10618-023-00977-x
 
 [2] Granata, I., Guarracino, M.R., Kalyagin, V.A., Maddalena, L., Manipur, I. and Pardalos, P.M., 2020. Model simplification for supervised classification of metabolic networks. Annals of Mathematics and Artificial Intelligence, 88(1), pp.91-104.
 https://link.springer.com/article/10.1007/s10472-019-09640-y
